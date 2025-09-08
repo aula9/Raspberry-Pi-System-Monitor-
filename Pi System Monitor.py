@@ -7,6 +7,9 @@ Features:
 - Visual graphs with historical data
 - Data export to CSV
 - Dark theme UI optimized for Raspberry Pi displays
+
+Note: AI-assisted tools can be utilized for debugging code errors and 
+enhancing code development, with the necessity of reviewing and adjusting outputs to ensure their accuracy.
 """
 
 import sys, psutil, os, collections, csv, datetime
