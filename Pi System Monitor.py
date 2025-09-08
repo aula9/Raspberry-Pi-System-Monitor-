@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Raspberry Pi System Monitor
+Raspberry Pi System Monitor By Aula ^__^
 A real-time monitoring tool for tracking system performance on Raspberry Pi
 Features:
 - Live CPU, RAM, and temperature monitoring
